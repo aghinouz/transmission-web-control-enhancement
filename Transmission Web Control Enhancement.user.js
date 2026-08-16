@@ -7,7 +7,7 @@
 // @description  It supports directory migration, enhanced search functionality, batch tag appending, and one-click selection of abnormal seeds. These functions can be independently toggled or triggered in the script menu.
 // @description:zh-CN 支持目录迁移、搜索增强功能、批量追加标签以及一键勾选异常种子，可在脚本菜单中独立开关功能或触发操作。
 // @author       aghinouz & gemini
-// @license      MIT
+// @license      GPL-3.0 License
 // @match        *://*/transmission/web/*
 // @grant        GM_registerMenuCommand
 // @grant        GM_unregisterMenuCommand
