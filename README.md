@@ -24,9 +24,7 @@ We are excited to release **Version 1.0** of the Transmission Web Control Enhanc
 
 ## ☕ Support the Author
 If you find this script helpful and it saves you time managing your torrents, consider supporting the development!
-*   **Afdian (爱发电):** [https://afdian.com/a/YOUR_ID](https://afdian.com/a/YOUR_ID)
-*   **Ko-fi:** [https://ko-fi.com/YOUR_ID](https://ko-fi.com/YOUR_ID)
-*   **Patreon:** [https://patreon.com/YOUR_ID](https://patreon.com/YOUR_ID)
+*   [**爱发电 (Afdian)**](https://afdian.com/a/aghinouz) | [**Ko-fi**](https://ko-fi.com/aghinouz) | [**Patreon**](https://patreon.com/aghinouz)
 
 ---
 Enjoy a smoother and more powerful Transmission Web Control experience!
@@ -60,9 +58,7 @@ Enjoy a smoother and more powerful Transmission Web Control experience!
 
 ## ☕ 赞助与支持
 如果您觉得这个脚本节省了您的时间，或者单纯想支持一下开发工作，欢迎通过以下方式请作者喝杯咖啡：
-*   **爱发电 (Afdian):** [https://afdian.com/a/YOUR_ID](https://afdian.com/a/YOUR_ID)
-*   **Ko-fi:** [https://ko-fi.com/YOUR_ID](https://ko-fi.com/YOUR_ID)
-*   **Patreon:** [https://patreon.com/YOUR_ID](https://patreon.com/YOUR_ID)
+*   [**爱发电 (Afdian)**](https://afdian.com/a/aghinouz) | [**Ko-fi**](https://ko-fi.com/aghinouz) | [**Patreon**](https://patreon.com/aghinouz)
 
 ---
 希望这个脚本能让您的 Transmission 管理更加得心应手！
