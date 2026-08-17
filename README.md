@@ -6,6 +6,8 @@
 
 We are excited to release **Version 1.0** of the Transmission Web Control Enhancement script! This userscript significantly improves your Transmission Web Control experience by adding powerful file management, search capabilities, and tag handling features.
 
+[![Greasy Fork Version](https://img.shields.io/greasyfork/v/591467-transmission-web-control-enhancement)](https://greasyfork.org/en/scripts/591467-transmission-web-control-enhancement)
+
 ## ✨ Key Features
 
 1.  **Directory Tree Migration (Preserve Structure)**
