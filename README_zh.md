@@ -6,6 +6,8 @@
 
 我们非常高兴地发布 **Transmission Web Control 增强脚本 1.0 版本**！此油猴脚本通过增加强大的文件管理、搜索能力和标签处理功能，大幅提升了您使用 Transmission Web Control 的体验。
 
+[![Greasy Fork Version](https://img.shields.io/greasyfork/v/591467-transmission-web-control-enhancement)](https://greasyfork.org/zh-CN/scripts/591467-transmission-web-control-enhancement?locale_override=1)
+
 ## ✨ 核心功能
 
 1.  **目录树迁移（保持内部结构）**
